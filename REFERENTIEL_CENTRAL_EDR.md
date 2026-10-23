@@ -1,6 +1,6 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.3
+Version : 1.4
 Dernière mise à jour : 2026-10-23
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
@@ -102,7 +102,27 @@ La conversation de prospection est le poste de pilotage central pour :
 7. Avant de remettre un lien direct à David, afficher le numéro utilisé, sa source, le statut WhatsApp (confirmé / non confirmé / indisponible) et les limites du contrôle. Préremplir le message seulement après validation du contact. L'ouverture du lien prépare l'envoi mais ne prouve jamais que le message a été envoyé.
 8. Appliquer cette règle à tous les secteurs et toutes les futures recherches de prospects, et l'inclure dans les dossiers de transfert individuels.
 
-## 7. Gestion des clients et des projets
+## 7. Procédure complète : prospect → démonstration → client → livraison
+
+Cette procédure s'applique par défaut à chaque nouveau prospect. David ne doit pas avoir à la répéter. La conversation centrale sert à la prospection ; la conversation dédiée sert au dossier et à la production du prospect retenu.
+
+1. **Identifier des prospects réels.** Dans la conversation centrale de prospection, rechercher des entreprises pertinentes, leurs noms, secteurs, localisations, informations publiques et contacts. Ne présenter que les coordonnées et les canaux de contact dont la source et le statut sont indiqués.
+2. **Recevoir les premières informations.** David peut fournir seulement le nom, le secteur et quelques informations. Compléter les recherches publiques sans lui redemander ce qui est déjà disponible. Séparer les faits confirmés des hypothèses commerciales.
+3. **Étudier le besoin et choisir la solution.** Comprendre les activités et les clients visés, repérer ce qui manque à leur présence numérique, et définir une solution adaptée. Ne pas supposer que chaque entreprise a besoin du même site ou de la même fonctionnalité.
+4. **Créer une démonstration personnalisée avant le premier contact, si cela est réalisable avec les moyens disponibles.** Ne pas se limiter aux modèles déjà existants : choisir une structure adaptée à l'activité (par exemple restaurant, commerce, hôtel, club sportif, espace événementiel ou activité multiservice). Réutiliser le site et le dépôt existants, examiner les fichiers avant modification et privilégier les changements ciblés. Utiliser les informations publiques disponibles, mais marquer les tarifs, photos, services, horaires et autres éléments non confirmés comme provisoires ou à valider. Ne pas inventer des avis, des clients, des certifications ou des résultats.
+5. **Publier et contrôler la démonstration.** Contrôler le contenu et les liens dans les fichiers, vérifier le statut du déploiement, puis essayer d'ouvrir la page publique et de tester les boutons, le contact WhatsApp, les liens de réservation ou autres fonctions pertinentes. Un déploiement réussi n'est pas une preuve d'accessibilité publique. Si l'ouverture publique ne peut pas être vérifiée, ne pas présenter la démo comme testée ; chercher une autre façon de la vérifier avant de la proposer au prospect.
+6. **Préparer le premier contact.** Rédiger un message WhatsApp concis et personnalisé qui présente David Ernest / EDR, résume la valeur de la solution, explique que la page est une première maquette réalisée à partir des informations recueillies et inclut le lien vérifié. Dire honnêtement que la maquette est une proposition et que des informations officielles seront nécessaires pour la finaliser. Fournir un lien WhatsApp prérempli uniquement après contrôle raisonnable du contact. Statut par défaut : « message préparé, pas envoyé ».
+7. **Créer le dossier dédié.** Préparer un dossier de transfert copiable et proposer un titre « Prospect — Nom de l'entreprise ». Ce dossier inclut l'identité du prospect, ses activités, les sources et contacts, les faits confirmés et inconnus, le lien et l'état de vérification de la démo, les fichiers/chemins modifiés si utiles, le message préparé, l'état du contact et la prochaine action. David crée la conversation dédiée et y colle le dossier. Ne pas prétendre qu'un transfert ou une synchronisation est automatique.
+8. **Suivre la réponse et qualifier l'intérêt.** Mettre à jour l'état seulement sur la base d'une confirmation de David ou d'un résultat réellement observé : contact non envoyé, envoyé, réponse reçue, intérêt confirmé, besoin à préciser, devis proposé, accord, paiement confirmé, production, contrôle, livraison. Si le prospect n'est pas intéressé ou ne répond pas, proposer une relance raisonnable seulement si elle est utile, sans harceler.
+9. **Si le prospect est intéressé, améliorer la même démonstration.** Ne pas recommencer automatiquement un projet séparé et ne pas abandonner la maquette personnalisée. Faire évoluer ses fichiers et son URL existants autant que possible en une vraie vitrine adaptée à l'entreprise. Demander uniquement les éléments indispensables manquants : nom officiel, logo, photos autorisées, services, produits ou menus, prix, horaires, contacts, liens de réservation ou autres informations nécessaires. Remplacer les données provisoires par les informations confirmées. Préserver ce qui fonctionne et contrôler les modifications.
+10. **Clarifier le périmètre et le prix avant les travaux finaux.** Présenter les livrables, limites, délais, prix de création et éventuel abonnement conformément aux tarifs en vigueur dans ce référentiel. Toute exception, remise, nouvelle fonctionnalité ou dépense nécessite l'accord explicite de David ; aucun outil payant ni achat sans autorisation. Ne pas promettre que le prospect a accepté ou payé sans confirmation.
+11. **Finaliser le lien et le QR code.** Publier la version convenue. Vérifier la page publique, l'affichage mobile, les textes, les tarifs, les coordonnées, les boutons, les liens et les fonctions convenues. Générer un QR code qui pointe exactement vers l'URL finale, puis le tester avec un outil de lecture disponible. Si le QR code ou une fonction n'a pas pu être testé, le signaler avant la livraison.
+12. **Livrer professionnellement.** Fournir le lien public final, le QR code et les autres éléments expressément convenus, accompagnés d'une explication simple pour les utiliser. Confirmer séparément ce qui a été testé, ce qui reste limité et ce qui n'est pas inclus. Ne marquer « livré » qu'après l'envoi réel des livrables au client confirmé par David ou par un outil.
+13. **Après livraison.** Conserver dans la conversation dédiée un résumé du résultat, le statut de paiement confirmé, les éventuelles demandes supplémentaires, les limites convenues et la prochaine action de suivi. Les changements non inclus sont chiffrés et approuvés avant exécution.
+
+**Règle commerciale centrale :** la démonstration personnalisée est un outil de conviction ; elle n'est pas la livraison finale gratuite par défaut. Si le prospect veut avancer, convertir la même maquette en prestation convenue, avec un périmètre et un prix clairs. Ne jamais publier des informations sensibles ni les données privées du prospect dans le dépôt GitHub public.
+
+## 8. Gestion des clients et des projets
 
 - Chaque prospect/client dispose d'une conversation dédiée dans le même projet, créée par David à partir d'un dossier de transfert préparé dans la conversation centrale de prospection.
 - La conversation centrale de prospection sert à trouver de nouveaux prospects et à conserver un état synthétique des suivis ; elle n'est pas le dossier de production détaillé de chaque client.
@@ -115,7 +135,7 @@ La conversation de prospection est le poste de pilotage central pour :
 - Les données nominatives, coordonnées privées, négociations, paiements et détails non publics des clients/prospects doivent être consignés uniquement dans un dépôt ou document PRIVÉ autorisé, jamais dans ce dépôt public.
 - Si le registre privé n'est pas accessible dans une conversation, signaler la limite et ne pas inventer son contenu.
 
-## 8. Protocole de mise à jour depuis n'importe quelle conversation
+## 9. Protocole de mise à jour depuis n'importe quelle conversation
 
 Quand David dit « Mise à jour », « Mets à jour les informations » ou demande un changement qui doit s'appliquer à l'activité :
 1. Ouvrir et lire la dernière version de ce fichier sur la branche principale du dépôt GitHub.
@@ -130,10 +150,11 @@ Au début d'une nouvelle tâche importante, consulter ce fichier si GitHub est d
 
 Limite technique importante : ce fichier ne peut pas modifier rétroactivement toutes les conversations et ne se synchronise pas tout seul. Il sert de source centrale que l'assistant doit relire dans chaque conversation où les outils et permissions nécessaires sont disponibles. Les anciennes conversations ne sont pas réécrites ; leurs décisions doivent être vérifiées au prochain usage.
 
-## 9. Journal des changements
+## 10. Journal des changements
 
 - 2026-10-23 : création de ce référentiel central public ; tarifs actuels inscrits ; règles de contrôle qualité, prospection et synchronisation définies.
 - 2026-10-23 : correction des prix de création dans les détails des offres de `index.html` (15 000 FCFA et 25 000 FCFA) ; correction du nom « David Ernest » dans la démonstration restaurant. Déploiement déclenché par les commits GitHub ; vérifier le statut et l’accès public avant toute prospection avec ces liens. Le test d’ouverture via l’outil de navigation n’a toujours pas permis de confirmer l’accessibilité publique.
 - 2026-10-23 : ajout de la procédure officielle de prospection centralisée et de transfert manuel de chaque prospect vers une conversation dédiée dans le même projet ; ajout du contenu minimum du dossier de transfert, des étapes de suivi et de la règle interdisant de supposer une synchronisation automatique.
 - 2026-10-23 : version 1.2 — ajout d'un contrôle obligatoire de disponibilité WhatsApp avant de sélectionner un prospect, avec statuts explicites, preuves exigées, règle de non-invention des numéros et interdiction de présenter un lien wa.me comme preuve de disponibilité.
 - 2026-10-23 : version 1.3 — ajout de la règle de premier message commercial : présentation de David Ernest / EDR, proposition personnalisée et démonstration sectorielle vérifiée intégrées dès le premier contact ; interdiction d'envoyer une démo inaccessible ou de déclarer un envoi non confirmé.
+- 2026-10-23 : version 1.4 — ajout de la procédure complète standardisée de la prospection jusqu'à la livraison : étude de l'entreprise, création et vérification d'une démonstration personnalisée, message avec lien, dossier client dédié, amélioration de la même maquette après intérêt, accord sur le périmètre et le prix, contrôle du site public, test du QR code, livraison et suivi.
