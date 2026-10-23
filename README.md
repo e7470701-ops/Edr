@@ -1,4 +1,4 @@
-# EDR — David Enest Restaurants
+# EDR — David Ernest Restaurants
 
 Plateforme de démonstration gratuite pour présenter des vitrines numériques de restaurants.
 
@@ -14,7 +14,7 @@ Une plateforme commune avec un chemin public distinct par entreprise, par exempl
 ## Publication
 Le dépôt est prévu pour Cloudflare Pages, branche `main`, sans commande de build et sans frais payants requis. Les images et le service de génération de QR code sont chargés depuis des services externes gratuits et nécessitent une connexion internet.
 
-## Tarifs des vitrines David Enest
+## Tarifs des vitrines David Ernest
 - Essentiel : création 15 000 FCFA + abonnement obligatoire de 2 000 FCFA/mois.
 - Business personnalisé : création 25 000 FCFA + abonnement obligatoire de 3 500 FCFA/mois.
 
