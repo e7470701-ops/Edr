@@ -103,3 +103,4 @@ Limite technique importante : ce fichier ne peut pas modifier rétroactivement t
 ## 9. Journal des changements
 
 - 2026-10-23 : création de ce référentiel central public ; tarifs actuels inscrits ; règles de contrôle qualité, prospection et synchronisation définies.
+- 2026-10-23 : correction des prix de création dans les détails des offres de `index.html` (15 000 FCFA et 25 000 FCFA) ; correction du nom « David Ernest » dans la démonstration restaurant. Déploiement déclenché par les commits GitHub ; vérifier le statut et l’accès public avant toute prospection avec ces liens. Le test d’ouverture via l’outil de navigation n’a toujours pas permis de confirmer l’accessibilité publique.
