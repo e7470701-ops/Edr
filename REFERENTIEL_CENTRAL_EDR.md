@@ -1,6 +1,6 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.0
+Version : 1.1
 Dernière mise à jour : 2026-10-23
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
@@ -66,20 +66,33 @@ Les démonstrations « Le Jardin » et « Maison Naya » sont fictives. Ne jamai
 
 ## 6. Règles de prospection
 
-Quand David demande « Prospection » ou demande de toucher des clients :
-- Rechercher un prospect réel et pertinent, en privilégiant Porto-Novo et les environs.
-- Vérifier les informations publiques disponibles et le moyen de contact.
-- Décrire un besoin comme une possibilité à confirmer, jamais comme un fait non vérifié.
-- Préparer un message personnalisé présentant David Ernest et un bénéfice concret.
-- Joindre une démo uniquement si le lien et la page concernés ont été testés. Sinon, créer/contrôler une alternative ou préparer un message sans lien défaillant.
-- Fournir un lien WhatsApp avec message prérempli si possible. Ne jamais dire que le message a été envoyé : David doit le confirmer.
-- Définir la prochaine action de suivi.
+La conversation de prospection est le poste de pilotage central pour :
+- Rechercher des prospects réels et pertinents, en privilégiant Porto-Novo et les environs.
+- Vérifier les informations publiques disponibles et les moyens de contact.
+- Décrire les besoins potentiels comme des hypothèses à confirmer.
+- Préparer des messages personnalisés et les liens de contact, puis suivre les réponses et définir la prochaine action.
+- Tenir un suivi synthétique des prospects et de leur état, sans y mélanger toute la production de chaque client.
+- Ne jamais prétendre qu'un message a été envoyé : David doit le confirmer.
 - Ne jamais promettre un résultat commercial garanti.
+
+**Procédure obligatoire de transfert vers une conversation dédiée :**
+1. Dès qu'un prospect est retenu pour une prise de contact individualisée ou qu'une réponse est reçue, préparer un dossier de transfert copiable.
+2. Le dossier indique au minimum : nom du prospect, activité et localisation, coordonnées publiques avec statut de vérification, objectif commercial, prestation envisagée, liens de démonstration pertinents et statut réel de leur vérification, message préparé, état du contact, réponses effectivement reçues et prochaine action.
+3. Préciser explicitement ce qui est confirmé, non vérifié ou encore à faire. Ne jamais présenter un message comme envoyé sans confirmation.
+4. David crée une nouvelle conversation dans le même projet et y colle ce dossier. Proposer un titre clair, par exemple « Prospect — Nom de l'entreprise ».
+5. La conversation dédiée devient le dossier de travail principal de ce prospect : prise de contact, historique des réponses, clarification du besoin, négociation, offre et devis, accord, confirmation du paiement, production, contrôles qualité, livraison et suivi après livraison.
+6. Garder la conversation centrale pour la recherche de nouveaux prospects et le suivi synthétique des étapes commerciales. Actualiser ce suivi uniquement avec des informations confirmées transmises par David ou vérifiées par les outils.
+7. Ne pas supposer que les conversations se déplacent, se synchronisent ou partagent automatiquement leur historique. Le transfert du contexte se fait au moyen du dossier copié par David.
+8. Avant d'envoyer une démonstration, vérifier son accessibilité et son contenu si les outils le permettent. Sinon, signaler clairement l'absence de vérification et privilégier un message sans lien jusqu'au contrôle.
 
 ## 7. Gestion des clients et des projets
 
-- Chaque client conserve sa conversation de travail, avec son contexte utile.
-- Le suivi central doit distinguer prospect, contacté, réponse reçue, besoin confirmé, devis proposé, accord, paiement confirmé, production, contrôle, livraison et suivi après livraison.
+- Chaque prospect/client dispose d'une conversation dédiée dans le même projet, créée par David à partir d'un dossier de transfert préparé dans la conversation centrale de prospection.
+- La conversation centrale de prospection sert à trouver de nouveaux prospects et à conserver un état synthétique des suivis ; elle n'est pas le dossier de production détaillé de chaque client.
+- La conversation dédiée conserve le contexte utile et gère le cycle complet : prise de contact, réponses, qualification du besoin, négociation, devis, accord, paiement confirmé, production, contrôle, livraison et suivi après livraison.
+- Le dossier de transfert doit contenir les informations utiles et l'état exact du prospect. Il doit distinguer les faits confirmés des informations anciennes ou non vérifiées.
+- Le suivi central doit distinguer prospect identifié, message préparé, contacté (uniquement après confirmation), réponse reçue, besoin confirmé, devis proposé, accord, paiement confirmé, production, contrôle, livraison et suivi après livraison.
+- Le transfert se fait manuellement par copie du dossier par David. Aucune synchronisation automatique entre conversations ne doit être supposée.
 - Distinguer systématiquement prix proposé, somme facturée, somme réellement encaissée, dépenses et bénéfice.
 - Ne jamais inscrire un accord, une livraison ou un paiement sans preuve ou confirmation.
 - Les données nominatives, coordonnées privées, négociations, paiements et détails non publics des clients/prospects doivent être consignés uniquement dans un dépôt ou document PRIVÉ autorisé, jamais dans ce dépôt public.
@@ -104,3 +117,4 @@ Limite technique importante : ce fichier ne peut pas modifier rétroactivement t
 
 - 2026-10-23 : création de ce référentiel central public ; tarifs actuels inscrits ; règles de contrôle qualité, prospection et synchronisation définies.
 - 2026-10-23 : correction des prix de création dans les détails des offres de `index.html` (15 000 FCFA et 25 000 FCFA) ; correction du nom « David Ernest » dans la démonstration restaurant. Déploiement déclenché par les commits GitHub ; vérifier le statut et l’accès public avant toute prospection avec ces liens. Le test d’ouverture via l’outil de navigation n’a toujours pas permis de confirmer l’accessibilité publique.
+- 2026-10-23 : ajout de la procédure officielle de prospection centralisée et de transfert manuel de chaque prospect vers une conversation dédiée dans le même projet ; ajout du contenu minimum du dossier de transfert, des étapes de suivi et de la règle interdisant de supposer une synchronisation automatique.
