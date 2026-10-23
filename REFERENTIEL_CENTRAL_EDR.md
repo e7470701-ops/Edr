@@ -1,6 +1,6 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.1
+Version : 1.2
 Dernière mise à jour : 2026-10-23
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
@@ -85,6 +85,16 @@ La conversation de prospection est le poste de pilotage central pour :
 7. Ne pas supposer que les conversations se déplacent, se synchronisent ou partagent automatiquement leur historique. Le transfert du contexte se fait au moyen du dossier copié par David.
 8. Avant d'envoyer une démonstration, vérifier son accessibilité et son contenu si les outils le permettent. Sinon, signaler clairement l'absence de vérification et privilégier un message sans lien jusqu'au contrôle.
 
+**Contrôle obligatoire des contacts WhatsApp avant toute prospection WhatsApp :**
+1. David privilégie la prospection par WhatsApp. Un numéro de téléphone public, à lui seul, ne prouve jamais que le contact utilise WhatsApp.
+2. Avant de proposer un prospect pour un message WhatsApp, rechercher une preuve récente et fiable : bouton WhatsApp sur un site officiel ou une page officielle du commerce, lien wa.me publié par l'entreprise, ou confirmation directe par un test réel. Noter la source et ce qui a effectivement été vérifié.
+3. Si aucun lien WhatsApp officiel n'est trouvé, construire éventuellement un lien wa.me uniquement comme test technique, jamais comme preuve que le numéro est inscrit sur WhatsApp.
+4. Quand le test ouvre seulement une page d'invitation, indique que le contact n'utilise pas WhatsApp ou ne permet pas d'ouvrir une conversation avec ce numéro, classer le contact « WhatsApp non confirmé » ou « indisponible sur WhatsApp » selon le résultat. Ne pas générer ni transmettre un lien présenté comme prêt à envoyer.
+5. Un lien wa.me correctement formaté n'est pas une vérification. Ne pas affirmer qu'un message peut être envoyé tant que l'ouverture d'une conversation avec le compte attendu n'est pas confirmée.
+6. Si le numéro échoue, ne pas réessayer le même numéro en boucle et ne pas inventer d'autres numéros. Chercher un autre contact WhatsApp publié par une source officielle ou fiable. S'il n'y en a pas, ne pas retenir ce prospect pour la campagne WhatsApp ; le garder « à vérifier » ou l'écarter de cette campagne.
+7. Avant de remettre un lien direct à David, afficher le numéro utilisé, sa source, le statut WhatsApp (confirmé / non confirmé / indisponible) et les limites du contrôle. Préremplir le message seulement après validation du contact. L'ouverture du lien prépare l'envoi mais ne prouve jamais que le message a été envoyé.
+8. Appliquer cette règle à tous les secteurs et toutes les futures recherches de prospects, et l'inclure dans les dossiers de transfert individuels.
+
 ## 7. Gestion des clients et des projets
 
 - Chaque prospect/client dispose d'une conversation dédiée dans le même projet, créée par David à partir d'un dossier de transfert préparé dans la conversation centrale de prospection.
@@ -118,3 +128,4 @@ Limite technique importante : ce fichier ne peut pas modifier rétroactivement t
 - 2026-10-23 : création de ce référentiel central public ; tarifs actuels inscrits ; règles de contrôle qualité, prospection et synchronisation définies.
 - 2026-10-23 : correction des prix de création dans les détails des offres de `index.html` (15 000 FCFA et 25 000 FCFA) ; correction du nom « David Ernest » dans la démonstration restaurant. Déploiement déclenché par les commits GitHub ; vérifier le statut et l’accès public avant toute prospection avec ces liens. Le test d’ouverture via l’outil de navigation n’a toujours pas permis de confirmer l’accessibilité publique.
 - 2026-10-23 : ajout de la procédure officielle de prospection centralisée et de transfert manuel de chaque prospect vers une conversation dédiée dans le même projet ; ajout du contenu minimum du dossier de transfert, des étapes de suivi et de la règle interdisant de supposer une synchronisation automatique.
+- 2026-10-23 : version 1.2 — ajout d'un contrôle obligatoire de disponibilité WhatsApp avant de sélectionner un prospect, avec statuts explicites, preuves exigées, règle de non-invention des numéros et interdiction de présenter un lien wa.me comme preuve de disponibilité.
