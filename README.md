@@ -17,3 +17,5 @@ Le dépôt est prévu pour Cloudflare Pages, branche `main`, sans commande de bu
 ## Tarifs des vitrines David Enest
 - Essentiel : création 15 000 FCFA + abonnement obligatoire de 5 000 FCFA/mois.
 - Business personnalisé : création 25 000 FCFA + abonnement obligatoire de 9 500 FCFA/mois.
+
+Dernière configuration : connexion Cloudflare Pages au dépôt EDR sur la branche main.
