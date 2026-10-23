@@ -15,7 +15,9 @@ Une plateforme commune avec un chemin public distinct par entreprise, par exempl
 Le dépôt est prévu pour Cloudflare Pages, branche `main`, sans commande de build et sans frais payants requis. Les images et le service de génération de QR code sont chargés depuis des services externes gratuits et nécessitent une connexion internet.
 
 ## Tarifs des vitrines David Enest
-- Essentiel : création 15 000 FCFA + abonnement obligatoire de 5 000 FCFA/mois.
-- Business personnalisé : création 25 000 FCFA + abonnement obligatoire de 9 500 FCFA/mois.
+- Essentiel : création 15 000 FCFA + abonnement obligatoire de 2 000 FCFA/mois.
+- Business personnalisé : création 25 000 FCFA + abonnement obligatoire de 3 500 FCFA/mois.
+
+Les modifications et améliorations après livraison sont facturées séparément, après définition du besoin, des livrables et accord sur le prix.
 
 Dernière configuration : connexion Cloudflare Pages au dépôt EDR sur la branche main.
