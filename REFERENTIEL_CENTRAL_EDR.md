@@ -1,6 +1,6 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.2
+Version : 1.3
 Dernière mise à jour : 2026-10-23
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
@@ -75,6 +75,13 @@ La conversation de prospection est le poste de pilotage central pour :
 - Ne jamais prétendre qu'un message a été envoyé : David doit le confirmer.
 - Ne jamais promettre un résultat commercial garanti.
 
+**Règle obligatoire de premier message commercial :**
+- Pour chaque prospect, préparer un message WhatsApp court, structuré, personnalisé et directement exploitable dès le premier contact : se présenter comme David Ernest / EDR, expliquer concrètement la prestation pertinente pour l'activité du prospect et joindre immédiatement une démonstration appropriée lorsque son accès et son contenu ont été vérifiés.
+- Privilégier la preuve concrète plutôt qu'un message générique qui demande seulement si le prospect est intéressé. Le message doit aider le prospect à comprendre rapidement ce qu'il pourrait obtenir, sans pression ni promesse de résultat.
+- Choisir la démonstration qui correspond le mieux au secteur. Si elle ne couvre qu'une partie de l'activité, le préciser et expliquer brièvement comment une version personnalisée pourrait couvrir les autres besoins.
+- Ne jamais présenter une démonstration fictive comme un client réel, ni joindre une page dont l'accessibilité n'a pas été confirmée. Si aucune démo adaptée et vérifiée n'existe, le signaler clairement et proposer une alternative honnête avant l'envoi.
+- Donner le message final prêt à copier-coller avec le lien intégré au bon endroit. Indiquer séparément que le message est préparé, pas envoyé, tant que David ne confirme pas l'envoi.
+
 **Procédure obligatoire de transfert vers une conversation dédiée :**
 1. Dès qu'un prospect est retenu pour une prise de contact individualisée ou qu'une réponse est reçue, préparer un dossier de transfert copiable.
 2. Le dossier indique au minimum : nom du prospect, activité et localisation, coordonnées publiques avec statut de vérification, objectif commercial, prestation envisagée, liens de démonstration pertinents et statut réel de leur vérification, message préparé, état du contact, réponses effectivement reçues et prochaine action.
@@ -129,3 +136,4 @@ Limite technique importante : ce fichier ne peut pas modifier rétroactivement t
 - 2026-10-23 : correction des prix de création dans les détails des offres de `index.html` (15 000 FCFA et 25 000 FCFA) ; correction du nom « David Ernest » dans la démonstration restaurant. Déploiement déclenché par les commits GitHub ; vérifier le statut et l’accès public avant toute prospection avec ces liens. Le test d’ouverture via l’outil de navigation n’a toujours pas permis de confirmer l’accessibilité publique.
 - 2026-10-23 : ajout de la procédure officielle de prospection centralisée et de transfert manuel de chaque prospect vers une conversation dédiée dans le même projet ; ajout du contenu minimum du dossier de transfert, des étapes de suivi et de la règle interdisant de supposer une synchronisation automatique.
 - 2026-10-23 : version 1.2 — ajout d'un contrôle obligatoire de disponibilité WhatsApp avant de sélectionner un prospect, avec statuts explicites, preuves exigées, règle de non-invention des numéros et interdiction de présenter un lien wa.me comme preuve de disponibilité.
+- 2026-10-23 : version 1.3 — ajout de la règle de premier message commercial : présentation de David Ernest / EDR, proposition personnalisée et démonstration sectorielle vérifiée intégrées dès le premier contact ; interdiction d'envoyer une démo inaccessible ou de déclarer un envoi non confirmé.
