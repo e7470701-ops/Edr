@@ -68,6 +68,9 @@ Les démonstrations « Le Jardin » et « Maison Naya » sont fictives. Ne jamai
 
 La conversation de prospection est le poste de pilotage central pour :
 - Rechercher des prospects réels et pertinents, en privilégiant Porto-Novo et les environs.
+- Priorité commerciale : petites entreprises, indépendants et commerces locaux qui ne disposent pas de site internet officiel identifiable. Ne pas privilégier les marques déjà bien établies ou disposant déjà d'un site, sauf besoin distinct clairement repéré.
+- Ne pas limiter les prospects à ceux qui auraient besoin d'une vitrine : identifier des besoins possibles dans l'ensemble des services EDR (visuels publicitaires, affiches promotionnelles, publications WhatsApp/réseaux sociaux, catalogues numériques, descriptions commerciales, vitrines, QR codes et autres solutions adaptées). Choisir une prestation pertinente par prospect plutôt que proposer systématiquement la même.
+- La présence d'une fiche d'annuaire ou d'une page Facebook ne signifie pas que l'entreprise possède un site officiel. Indiquer « aucun site officiel trouvé dans les recherches » plutôt que d'affirmer définitivement qu'elle n'en a pas. Chercher des preuves de l'activité et des coordonnées publiques ; préciser si WhatsApp est confirmé, non confirmé ou non testé.
 - Vérifier les informations publiques disponibles et les moyens de contact.
 - Décrire les besoins potentiels comme des hypothèses à confirmer.
 - Préparer des messages personnalisés et les liens de contact, puis suivre les réponses et définir la prochaine action.
@@ -151,6 +154,7 @@ Au début d'une nouvelle tâche importante, consulter ce fichier si GitHub est d
 Limite technique importante : ce fichier ne peut pas modifier rétroactivement toutes les conversations et ne se synchronise pas tout seul. Il sert de source centrale que l'assistant doit relire dans chaque conversation où les outils et permissions nécessaires sont disponibles. Les anciennes conversations ne sont pas réécrites ; leurs décisions doivent être vérifiées au prochain usage.
 
 ## 10. Journal des changements
+- 2026-10-23 : priorité de prospection précisée — petites entreprises et commerces locaux sans site officiel identifié ; proposer toute la gamme de services EDR selon le besoin, et distinguer l'absence de site trouvée lors des recherches d'une absence définitivement prouvée.
 
 - 2026-10-23 : création de ce référentiel central public ; tarifs actuels inscrits ; règles de contrôle qualité, prospection et synchronisation définies.
 - 2026-10-23 : correction des prix de création dans les détails des offres de `index.html` (15 000 FCFA et 25 000 FCFA) ; correction du nom « David Ernest » dans la démonstration restaurant. Déploiement déclenché par les commits GitHub ; vérifier le statut et l’accès public avant toute prospection avec ces liens. Le test d’ouverture via l’outil de navigation n’a toujours pas permis de confirmer l’accessibilité publique.
