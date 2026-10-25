@@ -1,6 +1,6 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.8
+Version : 1.9
 Dernière mise à jour : 2026-10-25
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
@@ -222,3 +222,27 @@ Les deux démonstrations sont des maquettes fictives. Le nom, les articles/plats
 - Le déploiement des derniers commits dans Cloudflare Pages et l'accessibilité des trois URLs publiques n'ont pas été confirmés par un test indépendant dans cette session.
 - L'affichage réel sur téléphone, le fonctionnement du QR code, les interactions WhatsApp et les autorisations de géolocalisation restent à tester sur navigateur.
 - Ne pas annoncer les pages comme entièrement testées ni garantir l'absence de tout défaut avant ces contrôles. Les services externes utilisés pour afficher les QR codes et les cartes dépendent de leur disponibilité.
+
+
+## Modèles EDR : quatre aperçus distincts — 2026-10-25
+
+La section « Exemples de réalisation » de l'accueil présente exactement quatre modèles, sans répéter les mêmes exemples :
+- Essentiel, modèle 1 : restaurant « Le Jardin » — `restaurants/demo-essentiel/`.
+- Essentiel, modèle 2 : boutique « Maison Naya » — `boutiques/demo-boutique/`.
+- Supérieure, modèle 1 : restaurant « Le Jardin — Signature » — `restaurants/demo-signature/`.
+- Supérieure, modèle 2 : catalogue mode « SECONDE VIE » — `boutiques/friperie-pro/`.
+
+Les modèles sont fictifs. Les noms, images, menus, articles, prix, stock, adresse et disponibilités ne doivent pas être présentés comme ceux d'un client réel. Le modèle restaurant supérieur et le catalogue SECONDE VIE illustrent une présentation plus immersive/interactif, mais leurs informations métier doivent être validées avant une livraison client. Les anciens chemins `restaurants/demo-restaurant/` et `restaurants/demo-pro/` existent encore dans le dépôt, mais ne sont plus mis en avant dans la galerie principale pour éviter les répétitions.
+
+### Carte et confusion autour d'un don
+
+- Les cartes intégrées des pages Signature et SECONDE VIE utilisaient un iframe OpenStreetMap. Pour éviter que des éléments de l'interface du fournisseur de carte (dont une éventuelle sollicitation de don) soient confondus avec une demande de David Ernest, les deux iframes ont été remplacés par une vue Google Maps centrée sur Porto-Novo.
+- La carte reste illustrative : elle ne prouve pas l'adresse d'un restaurant ou d'une boutique fictive. L'itinéraire de production devra utiliser l'adresse exacte validée par le client.
+- Commits : accueil quatre modèles `b6e1fe56ad8b110e1a881b89c782a43609c6c84f`, nettoyage du texte répété `c276823ab4f55e2b21e027407df01909e43c2ff1`, carte Signature `dd20d96032cd5c424ebf91fbf4c9e59b97fedba8`, carte SECONDE VIE `5c6989f625f297b3a699e4e70643bca0205d693b`.
+
+### Vérifications encore requises
+
+- Le code source doit être relu après ces derniers commits.
+- Vérifier la production Cloudflare Pages après les commits et ouvrir les pages sur téléphone.
+- Confirmer que la carte Google Maps s'affiche, qu'aucune demande de don liée à OpenStreetMap ne paraît dans la page, et que les liens d'itinéraire sont compréhensibles.
+- Tester les quatre modèles, le QR code, les filtres et les liens WhatsApp dans un navigateur réel. Ne pas affirmer qu'il n'existe plus aucun défaut avant ces tests.
