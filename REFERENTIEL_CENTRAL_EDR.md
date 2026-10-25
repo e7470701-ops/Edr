@@ -1,6 +1,6 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.5
+Version : 1.6
 Dernière mise à jour : 2026-10-25
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
@@ -57,8 +57,8 @@ Principe : vendre les bénéfices pratiques et les problèmes résolus, pas seul
 ## 4. Tarifs actuellement définis par David
 
 Ces tarifs sont la référence actuelle jusqu'à modification explicite par David :
-- Essentiel : création 15 000 FCFA + abonnement obligatoire 2 000 FCFA/mois.
-- Business personnalisé : création 25 000 FCFA + abonnement obligatoire 3 500 FCFA/mois.
+- Essentiel : création 7 500 FCFA + abonnement obligatoire 2 000 FCFA/mois.
+- Business personnalisé : création 15 000 FCFA + abonnement obligatoire 3 500 FCFA/mois.
 - Modifications, ajouts et améliorations après livraison : facturés séparément ; préciser le besoin, les livrables et le prix puis obtenir l'accord avant de commencer.
 - Ne jamais changer ces tarifs de sa propre initiative. Quand David demande une modification de prix, mettre à jour ce référentiel et les supports concernés, puis vérifier les anciennes valeurs.
 
@@ -183,3 +183,13 @@ Limite technique importante : ce fichier ne peut pas modifier rétroactivement t
 - Mise à jour du parcours commercial : identifier le besoin avant de choisir la solution et les livrables.
 - Fichier principal modifié : `index.html`. Commit : `147c18037e057b8a1a71f33d6bc8f4165e77322e`.
 - Contrôles du contenu source réussis : anciennes accroches ciblées absentes, section problèmes présente, tarifs 15 000/2 000 et 25 000/3 500 FCFA conservés, contact WhatsApp conservé. L'accès public réel et les interactions sur téléphone restent à tester après déploiement.
+
+
+## Journal des modifications — 2026-10-25 (refonte vitrine)
+
+- Tarifs de création modifiés à la demande de David : Essentiel passe à 7 500 FCFA + 2 000 FCFA/mois obligatoire ; Business personnalisé passe à 15 000 FCFA + 3 500 FCFA/mois obligatoire.
+- Page d'accueil retravaillée : proposition de valeur plus directe, appel à l'action WhatsApp prioritaire, navigation simplifiée, identité visuelle affinée, sections de solutions par besoin, cartes plus lisibles et styles de focus clavier.
+- Le contenu met l'accent sur les besoins des clients et évite les garanties de ventes. Aucun faux témoignage ou avis client ajouté.
+- Contrôle du fichier `index.html` : nouvelles valeurs de création et abonnements présentes, contact WhatsApp présent, anciennes mentions de tarifs de création supprimées dans la page d'accueil.
+- Commit de la page d'accueil : `85285b44c7c8c3c7bd1c5edc9c7eb184a2ba340c`.
+- La mise en ligne doit encore être confirmée dans Cloudflare et l'accessibilité publique doit être testée sur un téléphone.
