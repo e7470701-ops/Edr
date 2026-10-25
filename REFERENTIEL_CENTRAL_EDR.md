@@ -1,6 +1,6 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.7
+Version : 1.8
 Dernière mise à jour : 2026-10-25
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
@@ -198,3 +198,27 @@ Limite technique importante : ce fichier ne peut pas modifier rétroactivement t
 
 
 - 2026-10-25 : version 1.7 — ajout de deux modèles de démonstration restaurant comparables (Essentiel et Pro) avec la même carte fictive et les mêmes prix d’exemple ; différenciation de la direction artistique, de la navigation et de la richesse de présentation. Les deux modèles sont ajoutés à la section Démonstrations de la page d’accueil. Déploiement et accessibilité publique à contrôler séparément.
+
+
+## État des démonstrations EDR — 2026-10-25
+
+### Pages et état du code source
+
+- Accueil public prévu : https://edr-david-enest.pages.dev/
+- Démonstration restaurant fictive « Le Jardin — Signature Pro » : https://edr-david-enest.pages.dev/restaurants/demo-signature/
+- Démonstration boutique fictive « SECONDE VIE — Friperie » : https://edr-david-enest.pages.dev/boutiques/friperie-pro/
+
+Les deux démonstrations sont des maquettes fictives. Le nom, les articles/plats, prix, photos et informations de lieu ne doivent pas être présentés comme ceux d'une entreprise réelle. La carte affiche une zone générale de Porto-Novo, pas une adresse commerciale confirmée. Les itinéraires utilisent une recherche de destination générique.
+
+### Modifications du 2026-10-25
+
+- Accueil : cartes des deux démonstrations ajoutées et structure de la grille corrigée. Commit : `b6e8d1004a3e41120548c6e73f2cd4b2b714615e`.
+- Signature Pro : métadonnées de partage, `noindex,nofollow`, QR code de la page et gestion de géolocalisation simplifiée. Commit : `3d768d6723002b0561f6aa10c6c7f49b6459b4f9`.
+- SECONDE VIE : métadonnées de partage, `noindex,nofollow`, QR code de démonstration, message WhatsApp qui inclut les détails disponibles des articles sélectionnés, et correction du flux de géolocalisation pour éviter l'ajout d'un second gestionnaire au clic suivant. Commit : `697d072d09f508f1b7e8ccc609fbb089ded0b614`.
+
+### Limites et vérifications restantes
+
+- Les commits et le contenu source ont été relus sur GitHub après enregistrement.
+- Le déploiement des derniers commits dans Cloudflare Pages et l'accessibilité des trois URLs publiques n'ont pas été confirmés par un test indépendant dans cette session.
+- L'affichage réel sur téléphone, le fonctionnement du QR code, les interactions WhatsApp et les autorisations de géolocalisation restent à tester sur navigateur.
+- Ne pas annoncer les pages comme entièrement testées ni garantir l'absence de tout défaut avant ces contrôles. Les services externes utilisés pour afficher les QR codes et les cartes dépendent de leur disponibilité.
