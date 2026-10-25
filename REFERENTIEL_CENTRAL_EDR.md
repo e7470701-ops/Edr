@@ -1,6 +1,6 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.6
+Version : 1.7
 Dernière mise à jour : 2026-10-25
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
@@ -68,7 +68,9 @@ Dépôt GitHub actuellement utilisé pour le site : https://github.com/e7470701-
 Branche de production connue : main.
 Projet Cloudflare Pages connu : edr-david-enest.
 Adresse principale connue : https://edr-david-enest.pages.dev/
-Démonstration restaurant : https://edr-david-enest.pages.dev/restaurants/demo-restaurant/
+Démonstration restaurant initiale : https://edr-david-enest.pages.dev/restaurants/demo-restaurant/
+Modèle restaurant Essentiel : https://edr-david-enest.pages.dev/restaurants/demo-essentiel/
+Modèle restaurant Pro : https://edr-david-enest.pages.dev/restaurants/demo-pro/
 Démonstration boutique : https://edr-david-enest.pages.dev/boutiques/demo-boutique/
 
 Attention : au moment de la création de ce document, le statut de déploiement Cloudflare a été confirmé comme réussi, mais l'accessibilité publique des trois pages n'a pas été confirmée par un test d'ouverture concluant. Ne pas annoncer que les liens sont opérationnels tant que leur ouverture réelle n'est pas vérifiée.
@@ -193,3 +195,6 @@ Limite technique importante : ce fichier ne peut pas modifier rétroactivement t
 - Contrôle du fichier `index.html` : nouvelles valeurs de création et abonnements présentes, contact WhatsApp présent, anciennes mentions de tarifs de création supprimées dans la page d'accueil.
 - Commit de la page d'accueil : `85285b44c7c8c3c7bd1c5edc9c7eb184a2ba340c`.
 - La mise en ligne doit encore être confirmée dans Cloudflare et l'accessibilité publique doit être testée sur un téléphone.
+
+
+- 2026-10-25 : version 1.7 — ajout de deux modèles de démonstration restaurant comparables (Essentiel et Pro) avec la même carte fictive et les mêmes prix d’exemple ; différenciation de la direction artistique, de la navigation et de la richesse de présentation. Les deux modèles sont ajoutés à la section Démonstrations de la page d’accueil. Déploiement et accessibilité publique à contrôler séparément.
