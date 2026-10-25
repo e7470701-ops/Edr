@@ -1,7 +1,7 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.4
-Dernière mise à jour : 2026-10-23
+Version : 1.5
+Dernière mise à jour : 2026-10-25
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
 ## 1. Direction de travail permanente
@@ -42,6 +42,17 @@ Prestations proposées :
 Public prioritaire : commerçants, restaurants, hôtels et petites entreprises au Bénin, en priorité autour de Porto-Novo.
 
 Contact WhatsApp professionnel fourni par David : +229 01 44 39 67 10.
+
+## 3A. Angle commercial actuel de la vitrine
+
+Principe : vendre les bénéfices pratiques et les problèmes résolus, pas seulement la création d'une page web.
+
+- Point de départ du message : une publication attire l'attention, mais un client peut ensuite avoir du mal à retrouver toute la gamme, comparer les offres, consulter les informations utiles ou trouver le bon contact.
+- Solutions possibles selon le besoin : catalogue organisé, vitrine partageable, menu numérique, visuels promotionnels, publications WhatsApp/réseaux sociaux, présentation des services.
+- Bénéfices à expliquer sans les garantir : informations plus faciles à retrouver, offres plus simples à parcourir, lien unique à partager, prise de contact plus directe, communication plus cohérente.
+- Formule directrice : « Qu'est-ce que vos clients cherchent, qu'est-ce qu'ils ne trouvent pas facilement, et quelle présentation ou quel contenu pourrait leur faciliter la décision ? »
+- Ne jamais promettre une hausse garantie des ventes, des clients ou des revenus. Expliquer que ces outils facilitent la découverte et le contact, mais ne garantissent pas à eux seuls les ventes.
+- Choisir la prestation à partir du besoin : ne pas vendre systématiquement une vitrine si des visuels, publications ou un catalogue répondent mieux au problème.
 
 ## 4. Tarifs actuellement définis par David
 
@@ -162,3 +173,13 @@ Limite technique importante : ce fichier ne peut pas modifier rétroactivement t
 - 2026-10-23 : version 1.2 — ajout d'un contrôle obligatoire de disponibilité WhatsApp avant de sélectionner un prospect, avec statuts explicites, preuves exigées, règle de non-invention des numéros et interdiction de présenter un lien wa.me comme preuve de disponibilité.
 - 2026-10-23 : version 1.3 — ajout de la règle de premier message commercial : présentation de David Ernest / EDR, proposition personnalisée et démonstration sectorielle vérifiée intégrées dès le premier contact ; interdiction d'envoyer une démo inaccessible ou de déclarer un envoi non confirmé.
 - 2026-10-23 : version 1.4 — ajout de la procédure complète standardisée de la prospection jusqu'à la livraison : étude de l'entreprise, création et vérification d'une démonstration personnalisée, message avec lien, dossier client dédié, amélioration de la même maquette après intérêt, accord sur le périmètre et le prix, contrôle du site public, test du QR code, livraison et suivi.
+
+
+## Journal des modifications — 2026-10-25
+
+- Repositionnement de la vitrine publique autour des problèmes concrets des clients : publications dispersées, gamme difficile à parcourir, informations utiles difficiles à retrouver.
+- Ajout d'une section expliquant les problèmes et solutions possibles, sans garantie de hausse des ventes.
+- Clarification du discours des offres et des services complémentaires : catalogue, vitrine, visuels et publications sont proposés selon le besoin réel.
+- Mise à jour du parcours commercial : identifier le besoin avant de choisir la solution et les livrables.
+- Fichier principal modifié : `index.html`. Commit : `147c18037e057b8a1a71f33d6bc8f4165e77322e`.
+- Contrôles du contenu source réussis : anciennes accroches ciblées absentes, section problèmes présente, tarifs 15 000/2 000 et 25 000/3 500 FCFA conservés, contact WhatsApp conservé. L'accès public réel et les interactions sur téléphone restent à tester après déploiement.
