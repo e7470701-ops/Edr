@@ -5,6 +5,9 @@ Plateforme de démonstration gratuite pour présenter des vitrines numériques d
 ## Démonstration actuelle
 - Accueil : `/`
 - Restaurant de démonstration : `/restaurants/demo-restaurant/`
+- Modèle restaurant Essentiel : `/restaurants/demo-essentiel/`
+- Modèle restaurant Pro : `/restaurants/demo-pro/`
+- Les deux nouveaux modèles reprennent la même carte fictive pour permettre une comparaison directe des formules.
 - Chaque page restaurant génère un QR code à partir de son adresse courante.
 - Le contenu du restaurant est fictif : remplacer le nom, les photos, le menu, les prix, les coordonnées et les horaires avant livraison client.
 
