@@ -1,6 +1,6 @@
 # RÉFÉRENTIEL CENTRAL — DAVID ERNEST / EDR
 
-Version : 1.9
+Version : 1.10
 Dernière mise à jour : 2026-10-25
 Rôle de ce document : référence centrale opérationnelle. Ce fichier se trouve dans un dépôt PUBLIC ; il ne doit contenir aucune donnée confidentielle de client ou prospect.
 
@@ -238,7 +238,7 @@ Les modèles sont fictifs. Les noms, images, menus, articles, prix, stock, adres
 
 - Les cartes intégrées des pages Signature et SECONDE VIE utilisaient un iframe OpenStreetMap. Pour éviter que des éléments de l'interface du fournisseur de carte (dont une éventuelle sollicitation de don) soient confondus avec une demande de David Ernest, les deux iframes ont été remplacés par une vue Google Maps centrée sur Porto-Novo.
 - La carte reste illustrative : elle ne prouve pas l'adresse d'un restaurant ou d'une boutique fictive. L'itinéraire de production devra utiliser l'adresse exacte validée par le client.
-- Commits : accueil quatre modèles `b6e1fe56ad8b110e1a881b89c782a43609c6c84f`, nettoyage du texte répété `c276823ab4f55e2b21e027407df01909e43c2ff1`, carte Signature `dd20d96032cd5c424ebf91fbf4c9e59b97fedba8`, carte SECONDE VIE `5c6989f625f297b3a699e4e70643bca0205d693b`.
+- Commits : accueil quatre modèles `b6e1fe56ad8b110e1a881b89c782a43609c6c84f`, nettoyage du texte répété `c276823ab4f55e2b21e027407df01909e43c2ff1`, clarification de la galerie et de la formule supérieure `4ce4184172654a3bb9ef4dfd57f710aac831d00a`, carte Signature `dd20d96032cd5c424ebf91fbf4c9e59b97fedba8`, carte SECONDE VIE `5c6989f625f297b3a699e4e70643bca0205d693b`.
 
 ### Vérifications encore requises
 
@@ -246,3 +246,12 @@ Les modèles sont fictifs. Les noms, images, menus, articles, prix, stock, adres
 - Vérifier la production Cloudflare Pages après les commits et ouvrir les pages sur téléphone.
 - Confirmer que la carte Google Maps s'affiche, qu'aucune demande de don liée à OpenStreetMap ne paraît dans la page, et que les liens d'itinéraire sont compréhensibles.
 - Tester les quatre modèles, le QR code, les filtres et les liens WhatsApp dans un navigateur réel. Ne pas affirmer qu'il n'existe plus aucun défaut avant ces tests.
+
+
+## Contrôle complémentaire — galerie et carte — 2026-10-25
+
+- La galerie principale de `index.html` contient exactement quatre cartes : deux modèles Essentiel et deux modèles Supérieure. L'introduction annonce clairement « Quatre modèles. Deux niveaux. Aucun doublon. »
+- Le tarif de la formule Business personnalisé conserve les montants définis dans la section 4. Seul le libellé de présentation est clarifié en « Formule supérieure » ; aucun prix n'a été modifié.
+- Les embeds OpenStreetMap ont été remplacés dans `restaurants/demo-signature/index.html` et `boutiques/friperie-pro/index.html` par une vue Google Maps centrée sur Porto-Novo, afin d'éviter une sollicitation de don du fournisseur de carte susceptible d'être confondue avec une demande commerciale.
+- Relecture du code source confirmée après les modifications : quatre cartes, aucune mention de l'ancien avertissement répété, les deux anciens embeds OpenStreetMap absents, les deux embeds Google Maps présents.
+- L'ouverture des pages en production reste non vérifiée : l'outil de consultation a indiqué que les URLs ne lui étaient pas accessibles. Ce résultat est une limite de l'outil et ne prouve pas que les pages sont indisponibles.
